@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <title>Mastekeer's Induction Guide</title>
+</head>
+<style>
+    #bod1{
+        width: 100%;
+        height: 100%;
+    }
+</style>
+<body id="bod1">
+  <hr>
+  
+  </header>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://www.mastek.com/sites/default/files/header-icons/mastek-logo-with-strapline.png" height="200px" width="250px" align="center">
+  <h3 align="center">
+    <a href="https://www.mastek.com/">HOME</a>
+        &nbsp;
+        &nbsp;
+
+        <a href="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/index.aspx#testimonial">VALUES</a>
+        &nbsp;
+        &nbsp;
+
+        <a href="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/index.aspx#clogo">OUR CUSTOMERS</a>
+        &nbsp;
+        &nbsp;
+
+        <a href="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/index.aspx#about">GLOBAL PRESENCE</a>
+        &nbsp;  
+    
+  </h3-->
+
+<h1 align ="center" ><u>WE ARE MASTEKEERS! (IN-GRADUATES 2021)</u></h1></hr>
+<br>
+
+<div>
+    <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/featureslid1_CEO03.jpg" height="350px" width="550px" align="right">
+<p align="left">
+    <h2>CEO AWARDS</h2>
+    <font size="+2">This is a Performance Excellence Award given to Mastekeers who demonstrate exemplary performance while staying true to Mastek's value system (PACTS- Passionate, Accountable, Collaborative, Transparent and Sustainable). The award given is a combination of Monetary and Experiential reward.<br>
+    <br>
+    <h3> Reward: </h3> 
+    Recipient is given a sum of Rs. 25,000/- <br>
+    <br>
+    <h4> Reward: </h4>
+    A Mercedes Benz Car is arranged for the winner's pick and drop on the day of the event. In case the recipient is onsite, arrangements are made for them to travel to Mumbai from UK/US in Business class to attend the Award ceremony<br>
+    <h5> YOU CAN BE THE NEXT ONE...</h5></font>
+
+</p>
+
+</div>
+<br>
+<br>
+<br>
+
+<div>
+    <font size=+3>
+     <h2>GLOBAL PRESENCE</h2>
+     <p>
+        <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/abright01.png" alt="" align="left">
+    
+     Mastek is present in 3 countries around the world with offices spread <br>
+     across locations.We operate from India, UK and US.
+     </p>
+     <br>
+     <p> <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/IND.png" height="50px" width="50px" align="left"> 
+        <h3>INDIA</h3>
+        Transforming Governance, Transforming Lives</p>
+     </p>
+     <p> <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/US.png" height="50px" width="50px" align="left">
+         <h3>UNITED STATES OF AMERICA</h3>
+        Leading US based digital commerce provider
+    </p>
+     <p><img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/UK.png" height="50px" width="50px" align="left">
+          <h3>UNITED KINGDOM</h3>
+        Your trusted partner for digital transformation projects
+    </font>
+     </p>
+     
+    
+</div>
+<br><br><br><br><br> <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>
+    <h1>OUR LEADERS</h1>
+    <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/team02.jpg" height="375px" width="400px" align="left">
+    
+    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/team03.jpg" height="375px" width="400px" align="center">
+
+    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/team04.jpg" height="375px" width="400px" align="right">
+
+<br>
+<br>
+
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LATE SUDHAKAR RAM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ASHANK DESAI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MANINDER KAPOOR PURI
+   <br>
+   <br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; FOUNDER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; FOUNDER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; GROUP CHIEF PEOPLE OFFICER
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/team05.jpg" height="375px" width="400px" align="left">
+
+   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/Arun.jpg" height="375px" width="400px" align="center">
+   
+   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/team10.jpg" height="375px" width="400px" align="right">
+
+    <br>
+    <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ABHISHEK SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ARUN AGARWAL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RAMAN SAPRA
+
+    <br>
+    <br>
+     &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; GROUP CHIEF FINANCIAL OFFICER  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; VICE PRESIDENT - FINANCE  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; PRESIDENT - MASTEK AMERICAS
+
+
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+
+     <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/Narasimha.jpg" height="375px" width="400px" align="left">
+
+     &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/Arun.jpg" height="375px" width="400px" align="center">
+
+     <br>
+     <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NARASIMHA MURTHY L &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NAROTTAM SHARMA
+
+     <br>
+     <br>
+     &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GROUP CHIEF DELIVERY OFFICER &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CHIEF INFORMATION OFFICER
+
+</p>
+<br>
+
+<footer> <font size=+3>
+    <p align = "center"> For any queries please write to helpdesk@mastek.com</p>
+</footer>
+ </hr>
+</body>
+</html>
